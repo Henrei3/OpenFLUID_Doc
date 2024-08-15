@@ -1,0 +1,3 @@
+[submodule "migration-VM"]
+	path = migration-VM
+	url = https://team.openfluid-project.org/gogs/OpenFLUID/migration-VM.git
